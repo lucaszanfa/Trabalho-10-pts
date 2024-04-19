@@ -33,5 +33,27 @@ header h1 {
     object-fit: cover;
     border: 5px solid black;
 }
+.carousel-item img {
+    max-width: 30%; 
+    height: auto;
+    margin: 0 auto; 
+}
+.grid {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.colleague {
+    width: 30%; 
+    border: 2px solid black;
+}
+.ultimo{
+    font-size: large;
+}
+
+
+
+
+
 
 
